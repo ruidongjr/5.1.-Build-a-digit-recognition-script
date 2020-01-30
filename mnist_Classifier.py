@@ -316,7 +316,7 @@ class DNN:
 
 if __name__ == '__main__':
     # 1. Unzip the digits.zip file
-    # unzip()
+    unzip()
 
     # 2. Read training & testing dataset
     X, y = read_data(path='./data/mnist/training')
