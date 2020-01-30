@@ -33,4 +33,4 @@ Test Accuracy: 97.2%
 ## Requirement: 
 Please place this script within the same folder of digits.zip
 
-install python packages: numpy, zipfile, cv2, xgboost, sklearn, time
+install python packages: numpy, zipfile, cv2, xgboost, sklearn, time, tensorflow, matplotlib
