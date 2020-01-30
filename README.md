@@ -14,7 +14,8 @@ XGBoost for MNIST
     
     ### step 3: Process data
     
-    ### step 4: Train model and output score
+    ### step 4.1: Method 1 => train XGBoost model and output score
+    ### step 4.2: Method 2 => train DNN model and output score
 
 
 ## Performance:
