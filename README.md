@@ -19,9 +19,15 @@ XGBoost for MNIST
 
 
 ## Performance:
-Estimated Running Time: 4526s
+XGBoost:
 
-Test Accuracy: 97.2%
+    Estimated Running Time:  4526s
+    Test Accuracy:  97.2%
+
+DNN:
+
+    Estimated Running Time:  < 1800s
+    Test Accuracy:  theoretically >98.4%
 
 
 ## Future works:
