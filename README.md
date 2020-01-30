@@ -14,6 +14,7 @@ XGBoost for MNIST
     
     ### step 3: Process data
     
+    ### step 4: Comment alternatively:
     ### step 4.1: Method 1 => train XGBoost model and output score
     ### step 4.2: Method 2 => train DNN model and output score
 
@@ -28,6 +29,7 @@ DNN:
 
     Estimated Running Time:  < 1800s
     Test Accuracy:  theoretically >98.4%
+Note: Current DNN model is not sufficiently trained due to time limitation.
 
 
 ## Future works:
